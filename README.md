@@ -14,8 +14,8 @@
 
 <ul>
 <li>
-  <a href="https://github.com/RashadHagen/Computer-Management-Create-A-Local-User-Account">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Computer Management – Create A Local User Account</strong>
+  <a href="https://github.com/RashadHagen/Control-Panel-Programs-and-Features-Repair-A-Program-Using-Control-Panel">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Control Panel – Programs and Features – Repair A Program Using Control Panel</strong>
   </a>
   <br/>
 </li>
